@@ -1,5 +1,6 @@
 # Virnda-store-annual-sales-report-2022-using-Excel-
 Vrinda store wants to create an annual sales report for 2022. This report aims to help Vrinda understand their customers and grow more sales in 2023.
+
 **Introduction**-:
 This project provides an annual sales report for Vrinda Store for the year 2022. The report includes various analyses and insights to help understand customer behavior and improve sales strategies for 2023.
 
