@@ -1,37 +1,72 @@
-# Virnda-store-annual-sales-report-2022-using-Excel-
-Vrinda store wants to create an annual sales report for 2022. This report aims to help Vrinda understand their customers and grow more sales in 2023.
+# 🛍️ Vrinda Store Data Analysis (Interactive Dashboard using MS Excel)
 
-**Introduction**-:
-This project provides an annual sales report for Vrinda Store for the year 2022. The report includes various analyses and insights to help understand customer behavior and improve sales strategies for 2023.
+## 📘 **Introduction**
+- This project provides an **Annual Sales Report for Vrinda Store (2022)**.
+- The analysis helps understand **customer behavior, sales performance**, and identify strategies to **boost sales in 2023**.
+- An **interactive Excel dashboard** was created to visualize trends and KPIs effectively.
 
- **Objective**-:
-The objective of this report is to analyze the sales data for 2022 and provide actionable insights to increase sales in 2023.
+---
 
-  **Data Cleaning**-:
-The data was cleaned to remove any inconsistencies, missing values, and outliers to ensure accurate analysis.
+## 🎯 **Objective**
+- The goal was to create an **annual sales report** for 2022 so that the store owner can:
+  - Understand customer demographics and buying behavior.
+  - Identify top-performing states, age groups, and channels.
+  - Formulate data-driven marketing strategies to **increase sales in 2023**.
 
-**Data Processing**_:
-After cleaning, the data was processed to create meaningful metrics and KPIs required for the analysis.
+---
 
-**Data Analysis**-:
-Various analyses were performed to answer the following questions:
-1-Compare the sales and orders using a single chart.
-2-Which month had the highest sales and orders?
-3-Who purchased more: men or women in 2022?
-4-What are the different order statuses in 2022?
-5-List the top 10 states contributing to the sales.
-6-Relation between age and gender based on the number of orders.
-7-Which channel is contributing to the maximum sales?
-8-Highest selling category, etc.
+## 🧹 **Data Cleaning**
+- Removed **duplicates, missing values, and outliers** for consistency.
+- Standardized **column names and data types** for analysis.
+- Ensured all numerical and categorical fields were accurate and validated.
 
-**Insights**-:
-Women are more likely to buy compared to men (~65%).
-Maharashtra, Karnataka, and Uttar Pradesh are the top 3 states contributing to sales (~35%).
-The adult age group (30-49 years) is the maximum contributor (~50%).
-Amazon, Flipkart, and Myntra are the top contributing channels (~80%).
+---
 
-**Conclusion**-:
-To improve Vrinda Store sales, target women customers aged 30-49 years living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
+## ⚙️ **Data Processing**
+- Processed the cleaned dataset to create **KPIs and calculated metrics** such as:
+  - Total Sales and Total Orders
+  - Average Order Value (AOV)
+  - Sales by Gender, Age Group, and Region
+  - Top 10 States by Revenue
+- Built relationships between data fields to support dynamic dashboard visuals.
 
-![image](https://github.com/user-attachments/assets/65049443-0d62-41e3-8e54-2a4d051d858a)
+---
 
+## 📊 **Data Analysis**
+Performed various analyses to answer key business questions:
+
+1. 📈 Compare **Sales and Orders** using a combined chart.
+2. 🗓️ Identify the **month with the highest sales and orders**.
+3. 👩‍🦰 Determine **who purchased more** — men or women in 2022.
+4. 📦 Analyze **different order statuses** (Delivered, Cancelled, Returned, etc.).
+5. 🏙️ List the **Top 10 states** contributing to overall sales.
+6. 👨‍👩‍👧 Study the **relation between Age Group and Gender** based on number of orders.
+7. 💻 Identify the **sales channels** contributing the most (Amazon, Flipkart, Myntra, etc.).
+8. 🛒 Find the **highest-selling product categories**.
+
+---
+
+## 💡 **Insights**
+- 👩‍🦰 **Women** customers contribute ~65% of total purchases.
+- 🏙️ **Top 3 states:** Maharashtra, Karnataka, and Uttar Pradesh.
+- 👨‍🦳 **Adult age group (30–49 years)** contributes nearly 50% of total sales.
+- 💻 Majority of purchases are made via **Amazon, Flipkart, and Myntra**.
+
+---
+
+## 📈 **Conclusion**
+To improve sales performance:
+- Focus marketing efforts on **women aged 30–49 years** in **Maharashtra, Karnataka, and Uttar Pradesh**.
+- Offer targeted **ads, discounts, and loyalty programs** on top sales channels like **Amazon, Flipkart, and Myntra**.
+- Continue tracking KPIs to monitor campaign impact and refine strategy.
+
+---
+
+## 🧰 **Tools Used**
+- **Microsoft Excel** – Data Cleaning, Analysis, and Dashboard Creation
+- **Pivot Tables & Charts** – Comparative visualizations
+- **Power Query** – Data transformation and preparation
+- **Conditional Formatting** – Highlighting insights visually
+
+  ## 📸 **Dashboard Preview**
+![Vrinda Store Dashboard](https://github.com/user-attachments/assets/65049443-0d62-41e3-8e54-2a4d051d858a)
